@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<biblioteca nombre="Biblioteca Municipal">
+    <libros>
+        <libro isbn="978-8408178553">
+            <titulo>El Quijote</titulo>
+            <autor>Miguel de Cervantes</autor>
+            <anioPublicacion>1605</anioPublicacion>
+            <precio>25.5</precio>
+        </libro>
+        <libro isbn="978-8408173632">
+            <titulo>Cien años de soledad</titulo>
+            <autor>Gabriel García Márquez</autor>
+            <anioPublicacion>1967</anioPublicacion>
+            <precio>22.99</precio>
+        </libro>
+    </libros>
+</biblioteca>

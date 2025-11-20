@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<biblioteca nombre="Biblioteca Municipal">
+    <libros>
+        <libro isbn="978-8408178553">
+            <titulo>El Quijote</titulo>
+            <autor>Miguel de Cervantes</autor>
+            <anioPublicacion>1605</anioPublicacion>
+            <precio>25.5</precio>
+        </libro>
+    </libros>
+</biblioteca>
