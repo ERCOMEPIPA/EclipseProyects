@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<empresa nombre="TechSolutions S.L.">
+    <empleados>
+        <empleado id="1">
+            <nombre>Juan</nombre>
+            <apellido>García</apellido>
+            <salario>35000.0</salario>
+        </empleado>
+        <empleado id="2">
+            <nombre>María</nombre>
+            <apellido>López</apellido>
+            <salario>42000.0</salario>
+        </empleado>
+        <empleado id="3">
+            <nombre>Carlos</nombre>
+            <apellido>Rodríguez</apellido>
+            <salario>38000.0</salario>
+        </empleado>
+        <empleado id="4">
+            <nombre>Ana</nombre>
+            <apellido>Martínez</apellido>
+            <salario>31000.0</salario>
+        </empleado>
+        <empleado id="5">
+            <nombre>Pedro</nombre>
+            <apellido>Sánchez</apellido>
+            <salario>45000.0</salario>
+        </empleado>
+        <empleado id="6">
+            <nombre>Laura</nombre>
+            <apellido>Fernández</apellido>
+            <salario>39000.0</salario>
+        </empleado>
+    </empleados>
+</empresa>

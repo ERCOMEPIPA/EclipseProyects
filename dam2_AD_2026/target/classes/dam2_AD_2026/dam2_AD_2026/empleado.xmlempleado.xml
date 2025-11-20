@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<empleado>
+    <apellido>Pérez</apellido>
+    <edad>30</edad>
+    <id>1</id>
+    <nombre>Juan</nombre>
+</empleado>

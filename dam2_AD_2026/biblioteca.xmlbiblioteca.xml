@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<biblioteca>
+    <libros>
+        <libro isbn="1111">
+            <titulo>Java para DAM</titulo>
+            <autor>Genaro</autor>
+            <anioPublicacion>2000</anioPublicacion>
+            <precio>69.9</precio>
+        </libro>
+        <libro isbn="2222">
+            <titulo>c++</titulo>
+            <autor>Juan pEña</autor>
+            <anioPublicacion>2001</anioPublicacion>
+            <precio>29.9</precio>
+        </libro>
+        <libro isbn="3333">
+            <titulo>python</titulo>
+            <autor>Jose Luis</autor>
+            <anioPublicacion>2002</anioPublicacion>
+            <precio>79.9</precio>
+        </libro>
+        <libro isbn="4444">
+            <titulo>JavaScript</titulo>
+            <autor>Antonio Campaba</autor>
+            <anioPublicacion>2003</anioPublicacion>
+            <precio>39.9</precio>
+        </libro>
+    </libros>
+</biblioteca>
